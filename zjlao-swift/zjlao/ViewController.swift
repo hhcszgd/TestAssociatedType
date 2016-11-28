@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    func testMaster(){
+        mylog("测试提交到主分支1")
+    }
 }
 
