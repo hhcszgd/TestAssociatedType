@@ -31,6 +31,7 @@ class ViewController: UIViewController {
     }
     func testDevsub()  {
         mylog("测试提交到devsub3")
+        mylog("测试提交到devsub5")
     }
 }
 
