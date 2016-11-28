@@ -23,6 +23,7 @@ class ViewController: UIViewController {
     func testMaster(){
         mylog("测试提交到主分支1")
         mylog("测试提交到主分支3")
+        mylog("测试提交到主分支7")
     }
     func testDev ()  {
         mylog("测试提交到dev2")
