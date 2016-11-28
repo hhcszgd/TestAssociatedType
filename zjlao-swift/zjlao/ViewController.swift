@@ -24,5 +24,15 @@ class ViewController: UIViewController {
         mylog("测试提交到主分支1")
         mylog("测试提交到主分支3")
     }
+    func testDev ()  {
+        mylog("测试提交到dev2")
+        mylog("测试提交到dev4")
+        mylog("测试提交到dev5")
+        mylog("测试提交到dev6")
+    }
+    func testDevsub()  {
+        mylog("测试提交到devsub3")
+        mylog("测试提交到devsub5")
+    }
 }
 
