@@ -27,6 +27,7 @@ class ViewController: UIViewController {
         mylog("测试提交到主分支9")
         mylog("测试提交到主分支10")
         mylog("测试提交到主分支11")
+        mylog("测试提交到主分支12")
     }
     func testDev ()  {
         mylog("测试提交到dev2")
