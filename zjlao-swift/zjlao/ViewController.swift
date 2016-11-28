@@ -22,6 +22,7 @@ class ViewController: UIViewController {
 
     func testMaster(){
         mylog("测试提交到主分支1")
+        mylog("测试提交到主分支3")
     }
 }
 
