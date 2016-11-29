@@ -38,6 +38,7 @@ class ViewController: UIViewController {
     func testWY1() {
         mylog("wy1/1")
         mylog("wy1/2")
+        mylog("2y1/2")
     }
 
 }
