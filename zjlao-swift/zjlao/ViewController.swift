@@ -32,6 +32,7 @@ class ViewController: UIViewController {
         mylog("master/1")
         mylog("master/2")
         mylog("master/3")
+        mylog("master/4")
 
     }
     func testWY1() {
