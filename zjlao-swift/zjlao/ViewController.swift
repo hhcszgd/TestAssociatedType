@@ -29,6 +29,9 @@ class ViewController: UIViewController {
         mylog("测试提交到主分支11")
         mylog("测试提交到主分支12")
     }
+    func testWY1() {
+        mylog("wy1/1")
+    }
 
 }
 
