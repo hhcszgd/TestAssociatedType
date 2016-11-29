@@ -30,6 +30,7 @@ class ViewController: UIViewController {
         mylog("测试提交到主分支12")
         
         mylog("master/1")
+        mylog("master/2")
     }
     func testWY1() {
         mylog("wy1/1")
