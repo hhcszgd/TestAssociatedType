@@ -39,6 +39,9 @@ class ViewController: UIViewController {
         mylog("wy1/1")
         mylog("wy1/2")
         mylog("2y1/2")
+        mylog("wy1/3")
+        mylog("wy1/4")
+        mylog("wy1/5")
     }
 
 }
